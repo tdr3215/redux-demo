@@ -10,9 +10,9 @@
 
 ### Dependencies
 
-- [@redux/toolkit]("https://www.npmjs.com/package/@reduxjs/toolkit")
-- [react-redux]("https://www.npmjs.com/package/react-redux")
-- [redux]("https://www.npmjs.com/package/redux")
+- [@redux/toolkit](https://www.npmjs.com/package/@reduxjs/toolkit)
+- [react-redux](https://www.npmjs.com/package/react-redux)
+- [redux](https://www.npmjs.com/package/redux)
 
 ### Using Redux
 
@@ -26,5 +26,5 @@
 
 ### Links for Class
 
-- [video-tutorial]("https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)
-- [redux-quickstart-tutorial]("https://redux.js.org/tutorials/quick-start)
+- [video-tutorial](https://www.youtube.com/watch?v=9boMnm5X9ak&list=PLC3y8-rFHvwheJHvseC3I0HuYI2f46oAK)
+- [redux-quickstart-tutorial](https://redux.js.org/tutorials/quick-start)
